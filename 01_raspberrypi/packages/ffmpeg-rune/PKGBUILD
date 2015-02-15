@@ -53,6 +53,7 @@ build() {
 --enable-demuxer=tta \
 --enable-demuxer=wav \
 --enable-demuxer=wv \
+--enable-demuxer=mpegts \
 --disable-bsfs \
 --disable-filters \
 --disable-parsers \
