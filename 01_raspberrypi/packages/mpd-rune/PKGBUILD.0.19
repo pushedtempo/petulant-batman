@@ -46,6 +46,7 @@ build() {
 		--disable-bzip2 \
 		--disable-gme \
 		--disable-mpg123 \
+		--enable-m3u8 \
 		--enable-mad=yes \
 		--enable-libmpdclient \
 		--enable-soxr \
